@@ -1,0 +1,83 @@
+.first-main {
+    display: flex;
+    justify-content: center;
+}
+.second-main {
+    display: flex;
+    justify-content: center;
+}
+.third-main {
+  display: flex;
+  justify-content: center;
+}
+
+.first-main div {
+    padding: 10px;
+    border: 1px solid gray;
+    background: white;
+}
+.second-main div {
+    padding: 10px;
+    border: 1px solid gray;
+    background: white;
+}
+.third-main div {
+  padding: 10px;
+  border: 1px solid gray;
+  background: white;
+}
+
+.first-level {
+    flex-basis: auto;
+
+}
+.second-level {
+    flex-basis: auto;
+}
+.third-level {
+    flex-basis: auto;
+}
+.fourth-level {
+    flex-basis: auto;
+}
+.fifth-level {
+    flex-basis: auto;
+}
+.sixth-level {
+    flex-basis: auto;
+}
+.seventh-level {
+    flex-basis: auto;
+}
+.eight-level  {
+    flex-basis: auto;
+}
+.ninth-level {
+    flex-basis: auto;
+}
+
+.character {
+  color: grey;
+}
+
+.device {
+  color: blue;
+  text-align: center;
+  text-size-adjust: 5px;
+}
+
+table.name {
+  width: 100%; 
+  border-spacing: 5px; 
+  line-height: 25px;
+}
+table.name td {
+  width: 50%; 
+}
+td.specifications{
+
+  text-align: left; 
+}
+td.system-information-left {
+  color: grey;
+}
